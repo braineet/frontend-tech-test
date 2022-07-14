@@ -1,2 +1,1 @@
-export { Switch } from './toggles';
-export default {};
+export {default as Switch} from './switch';

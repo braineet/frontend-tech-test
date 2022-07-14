@@ -20,9 +20,9 @@ coverage
 node_modules
 
 # distributation folders
-build
-dist
-.next
+build/**
+dist/**
+.next/**
 
 # cache
 .eslintcache
@@ -33,10 +33,6 @@ dist
 .env
 .cache
 .idea
+.turbo
 
-# Fix build crowdsourcing-dashboard
-apps/crowdsourcing-dashboard/public/css/style.css
-apps/crowdsourcing-dashboard/public/css/style.css.map
-apps/crowdsourcing-dashboard/public/js/bundle.js
-apps/crowdsourcing-dashboard/public/js/bundle.js.map
 

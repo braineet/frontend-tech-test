@@ -12,11 +12,6 @@ dist
 .next
 storybook-static
 static
-public
-public/css/style.css
-public/css/style.css.map
-public/js/bundle.js
-public/js/bundle.js.map
 icons
 .eslintcache
 .jest-*
