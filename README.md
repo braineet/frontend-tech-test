@@ -49,7 +49,7 @@ navigate between pages.
 For the switch, the candidate must create a UI package in the repo that contains
 this switch component and use it in the app.
 
-![App mockup](mockup.png)
+![App mockup](public/mockup.png)
 
 # \***\*Acceptance criteria\*\***
 
