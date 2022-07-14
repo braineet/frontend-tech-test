@@ -8,7 +8,7 @@ Welcome to the **Braineet Frontend Technical Test**. In this test, the candidate
 has to create a small frontend application using the technologies that we at
 Braineet use in our daily routine.
 
-# \***\*What is the candidate going to develop?\*\***
+# What is the candidate going to develop?
 
 ---
 
@@ -51,7 +51,7 @@ this switch component and use it in the app.
 
 ![App mockup](public/mockup.png)
 
-# \***\*Acceptance criteria\*\***
+# Acceptance criteria
 
 ---
 
@@ -75,7 +75,7 @@ candidate may take as much time as he or she wishes (as long as it is within the
 reasonable time frame of the braineet setting schedule), but the amount of time
 the candidate takes has no bearing on the scoring of the test itself.
 
-# \***\*What will be evaluated?\*\***
+# What will be evaluated?
 
 ---
 
@@ -94,7 +94,7 @@ development. Specifically:
     -   Maintainability
     -   Edge case management
 
-# \***\*Stack\*\***
+# Stack
 
 ---
 
@@ -122,7 +122,7 @@ retrieve the various characters and their information. The candidate can take a
 look at the API and how to use it here:
 [https://swapi.dev/documentation](https://swapi.dev/documentation).
 
-# \***\*Setup\*\***
+# Setup
 
 ---
 
@@ -144,7 +144,7 @@ To start development:
 
 ---
 
-# \***\*Project delivery\*\***
+# Project delivery
 
 ---
 
